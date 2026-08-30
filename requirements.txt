@@ -1,0 +1,5 @@
+## Requirements
+- Python 3.8 or higher
+- PyTorch 2.0+
+- Transformers, Pandas, Scikit-learn, Streamlit
+- GPU recommended for faster training, CPU also supported
